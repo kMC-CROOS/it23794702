@@ -1,0 +1,27 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "show-report": "playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kMC-CROOS/it23794702.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kMC-CROOS/it23794702/issues"
+  },
+  "homepage": "https://github.com/kMC-CROOS/it23794702#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1"
+  }
+}

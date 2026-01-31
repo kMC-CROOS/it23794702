@@ -1,0 +1,125 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - table [ref=e3]:
+      - rowgroup [ref=e4]:
+        - row "hello Can't Read Tamil Properly ? Click Here To Install Tamil Font . Login / Register" [ref=e5]:
+          - cell "hello" [ref=e6]
+          - cell "Can't Read Tamil Properly ? Click Here To Install Tamil Font ." [ref=e7]:
+            - text: Can't Read Tamil Properly ?
+            - link "Click Here" [ref=e8] [cursor=pointer]:
+              - /url: Fonts.aspx
+            - text: To Install Tamil Font .
+          - cell "Login / Register" [ref=e9]:
+            - table [ref=e10]:
+              - rowgroup [ref=e11]:
+                - row "Login / Register" [ref=e12]:
+                  - cell [ref=e13]
+                  - cell "Login / Register" [ref=e14]:
+                    - link "Login / Register" [ref=e15] [cursor=pointer]:
+                      - /url: Register.aspx
+    - table [ref=e16]:
+      - rowgroup [ref=e17]:
+        - row "Online Tamil Tools" [ref=e18]:
+          - cell "Online Tamil Tools" [ref=e19]:
+            - heading "Online Tamil Tools" [level=1] [ref=e20]
+        - row "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e21]:
+          - cell "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e22]:
+            - generic:
+              - list:
+                - listitem [ref=e23]:
+                  - link "Conversion" [ref=e24] [cursor=pointer]:
+                    - /url: ./
+                - listitem [ref=e25]:
+                  - link "Dictionary" [ref=e26] [cursor=pointer]:
+                    - /url: Dictionary.aspx
+                - listitem [ref=e27]:
+                  - link "Tamil Search" [ref=e28] [cursor=pointer]:
+                    - /url: Search.aspx
+                - listitem [ref=e29]:
+                  - link "Export To Image" [ref=e30] [cursor=pointer]:
+                    - /url: Export.aspx
+                - listitem [ref=e31]:
+                  - link "Fonts" [ref=e32] [cursor=pointer]:
+                    - /url: Fonts.aspx
+                - listitem [ref=e33]:
+                  - link "Help" [ref=e34] [cursor=pointer]:
+                    - /url: Comments.aspx
+                - listitem [ref=e35]:
+                  - link "FAQ" [ref=e36] [cursor=pointer]:
+                    - /url: How-To-Write.aspx
+        - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name nan rathiri poga poren (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tamil search engine Transliteration software Tamil movie streaming subscriptions Tamil news website subscriptions" [ref=e37]:
+          - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name nan rathiri poga poren (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tamil search engine Transliteration software Tamil movie streaming subscriptions Tamil news website subscriptions" [ref=e38]:
+            - table [ref=e39]:
+              - rowgroup [ref=e40]:
+                - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name nan rathiri poga poren (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tamil search engine Transliteration software Tamil movie streaming subscriptions Tamil news website subscriptions" [ref=e41]:
+                  - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name nan rathiri poga poren (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tamil search engine Transliteration software Tamil movie streaming subscriptions Tamil news website subscriptions" [ref=e42]:
+                    - table [ref=e43]:
+                      - rowgroup [ref=e44]:
+                        - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name nan rathiri poga poren (Press Ctrl+g to toggle between English and Tamil) Advertisement" [ref=e45]:
+                          - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name nan rathiri poga poren (Press Ctrl+g to toggle between English and Tamil)" [ref=e46]:
+                            - table [ref=e47]:
+                              - rowgroup [ref=e48]:
+                                - row "English To Tamil Conversion" [ref=e49]:
+                                  - cell "English To Tamil Conversion" [ref=e50]:
+                                    - heading "English To Tamil Conversion" [level=1] [ref=e51]
+                                - row "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name nan rathiri poga poren (Press Ctrl+g to toggle between English and Tamil)" [ref=e52]:
+                                  - cell "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name nan rathiri poga poren (Press Ctrl+g to toggle between English and Tamil)" [ref=e53]:
+                                    - table [ref=e54]:
+                                      - rowgroup [ref=e55]:
+                                        - row "Type in English and press space(add space) to get converted to tamil" [ref=e56]:
+                                          - cell "Type in English and press space(add space) to get converted to tamil" [ref=e57]
+                                        - row "Save Export" [ref=e58]:
+                                          - cell "Save Export" [ref=e59]:
+                                            - button "Save" [ref=e60]
+                                            - button "Export" [ref=e61]
+                                        - row "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e62]:
+                                          - cell "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e63]
+                                        - row "nan rathiri poga poren" [ref=e64]:
+                                          - cell "nan rathiri poga poren" [ref=e65]:
+                                            - textbox [active] [ref=e66]: nan rathiri poga poren
+                                        - row "(Press Ctrl+g to toggle between English and Tamil)" [ref=e67]:
+                                          - cell "(Press Ctrl+g to toggle between English and Tamil)" [ref=e68]
+                          - cell "Advertisement" [ref=e69]:
+                            - insertion [ref=e70]:
+                              - iframe [ref=e72]:
+                                - generic [ref=f2e2]:
+                                  - iframe [ref=f2e5]:
+                                    
+                                  - generic [ref=f2e6]:
+                                    - generic:
+                                      - img [ref=f2e10] [cursor=pointer]
+                                      - button [ref=f2e12] [cursor=pointer]:
+                                        - img [ref=f2e13]
+                        - row "These are topics related to the article that might interest you Tamil search engine Transliteration software Tamil movie streaming subscriptions Tamil news website subscriptions" [ref=e73]:
+                          - cell "These are topics related to the article that might interest you Tamil search engine Transliteration software Tamil movie streaming subscriptions Tamil news website subscriptions" [ref=e74]:
+                            - insertion [ref=e75]:
+                              - generic [ref=e77]:
+                                - generic "These are topics related to the article that might interest you" [ref=e78]: Discover more
+                                - link "Tamil search engine" [ref=e79] [cursor=pointer]:
+                                  - img [ref=e81]
+                                  - text: Tamil search engine
+                                - link "Transliteration software" [ref=e83] [cursor=pointer]:
+                                  - img [ref=e85]
+                                  - text: Transliteration software
+                                - link "Tamil movie streaming subscriptions" [ref=e87] [cursor=pointer]:
+                                  - img [ref=e89]
+                                  - text: Tamil movie streaming subscriptions
+                                - link "Tamil news website subscriptions" [ref=e91] [cursor=pointer]:
+                                  - img [ref=e93]
+                                  - text: Tamil news website subscriptions
+        - row [ref=e95]:
+          - cell [ref=e96]
+  - insertion [ref=e97]:
+    - iframe [ref=e100]:
+      - generic [active] [ref=f9e1]:
+        - generic [ref=f9e3]:
+          - link:
+            - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CUmgkyMl9adDbGrqdid4PzMmioAGi0piDhQGZvNKa7hP416uP0REQASDXhKIMYJEBoAHTyImYPsgBAqgDAcgDyQSqBNwBT9B2Z7F5PFoYKsNLh7ilH37qgOGeUw6qIO2qMYuILtjrB5ijdUc3PJ1VMtTk9rYE2EWX7ia2MxTFcCmuRn8UGsnmWZaTio4W0bsLyBH6YPIjLusUxrAokraCUvVHAdT5szITV6IQbs6TyRLiE0gHLCOQP_U0XCqFmL0-Adh6lX6HZE4NF3bWGbsNcAAuKX_VC2jWGHtSvt6Pw38YYXMBnJdXLUbHvGOCBNAsxcRR8IfsZfHMw7oSmIR6qX9-lLrtVa2IhBXRA6OsxGVKFHXu8U1r3FOSf5XlUNwb88AEz8Wb8KwFiAW6jZWvU6AGAoAH04Da9xioB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOliNgNmBurWSA7EJrg-yw_L6naKACgGYCwHICwGiDAOQAQGqDQJMS8gNAeoNEwjM59qBurWSAxW6TsIFHcykCBTwDQKIDgnYEwPQFQGYFgHKFgIKAPgWAYAXAbIXAhgBuhcCOAGyGAkSAvpOGAIiAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMI0N_agbq1kgMVuk7CBR3MpAgUEAEYASAAEgK2DvD_BwE&num=1&cid=CAQSsgEA56J1ebC0jkIZzJObAXx4KrrfbxmuxmfHAxBfjUQlixf35whFxcwfKLY8FgnPUBaRn1UPaIefhy8hFyayFRdshZdQYHjrSnVPZDrNBtuQ01vje49ceVh1ulie-rbhVi7iL7Jfe6IzrRD9cFrf_uW8lR_VoHh9eW-yiLZQzJI3-3I3Xnf7wY8r89px5DjE7QSUOyNBsx09B46HkJjIJhOHhY2p0gLOLJne_-rKv78lja3dGAE&sig=AOD64_00iXdJ28c2PWKNTJntC84J8JEeGA&client=ca-pub-0827640844035835&rf=2&nb=2&adurl=https://www.youtube.com/watch%3Fv%3DjVIciZnUpQ4%26gad_source%3D5%26gad_campaignid%3D22379054778%26gclid%3DEAIaIQobChMI0N_agbq1kgMVuk7CBR3MpAgUEAEYASAAEgK2DvD_BwE
+          - img [ref=f9e7] [cursor=pointer]
+          - button [ref=f9e9] [cursor=pointer]:
+            - img [ref=f9e10]
+        - iframe
+```

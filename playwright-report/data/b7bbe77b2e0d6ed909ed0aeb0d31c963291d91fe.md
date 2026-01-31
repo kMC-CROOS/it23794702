@@ -1,0 +1,137 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - table [ref=e3]:
+      - rowgroup [ref=e4]:
+        - row "hello Can't Read Tamil Properly ? Click Here To Install Tamil Font . Login / Register" [ref=e5]:
+          - cell "hello" [ref=e6]
+          - cell "Can't Read Tamil Properly ? Click Here To Install Tamil Font ." [ref=e7]:
+            - text: Can't Read Tamil Properly ?
+            - link "Click Here" [ref=e8] [cursor=pointer]:
+              - /url: Fonts.aspx
+            - text: To Install Tamil Font .
+          - cell "Login / Register" [ref=e9]:
+            - table [ref=e10]:
+              - rowgroup [ref=e11]:
+                - row "Login / Register" [ref=e12]:
+                  - cell [ref=e13]
+                  - cell "Login / Register" [ref=e14]:
+                    - link "Login / Register" [ref=e15] [cursor=pointer]:
+                      - /url: Register.aspx
+    - table [ref=e16]:
+      - rowgroup [ref=e17]:
+        - row "Online Tamil Tools" [ref=e18]:
+          - cell "Online Tamil Tools" [ref=e19]:
+            - heading "Online Tamil Tools" [level=1] [ref=e20]
+        - row "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e21]:
+          - cell "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e22]:
+            - generic:
+              - list:
+                - listitem [ref=e23]:
+                  - link "Conversion" [ref=e24] [cursor=pointer]:
+                    - /url: ./
+                - listitem [ref=e25]:
+                  - link "Dictionary" [ref=e26] [cursor=pointer]:
+                    - /url: Dictionary.aspx
+                - listitem [ref=e27]:
+                  - link "Tamil Search" [ref=e28] [cursor=pointer]:
+                    - /url: Search.aspx
+                - listitem [ref=e29]:
+                  - link "Export To Image" [ref=e30] [cursor=pointer]:
+                    - /url: Export.aspx
+                - listitem [ref=e31]:
+                  - link "Fonts" [ref=e32] [cursor=pointer]:
+                    - /url: Fonts.aspx
+                - listitem [ref=e33]:
+                  - link "Help" [ref=e34] [cursor=pointer]:
+                    - /url: Comments.aspx
+                - listitem [ref=e35]:
+                  - link "FAQ" [ref=e36] [cursor=pointer]:
+                    - /url: How-To-Write.aspx
+        - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name pasanga playground la kalikkiranga (Press Ctrl+g to toggle between English and Tamil) Advertisement" [ref=e37]:
+          - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name pasanga playground la kalikkiranga (Press Ctrl+g to toggle between English and Tamil) Advertisement" [ref=e38]:
+            - table [ref=e39]:
+              - rowgroup [ref=e40]:
+                - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name pasanga playground la kalikkiranga (Press Ctrl+g to toggle between English and Tamil) Advertisement" [ref=e41]:
+                  - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name pasanga playground la kalikkiranga (Press Ctrl+g to toggle between English and Tamil) Advertisement" [ref=e42]:
+                    - table [ref=e43]:
+                      - rowgroup [ref=e44]:
+                        - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name pasanga playground la kalikkiranga (Press Ctrl+g to toggle between English and Tamil) Advertisement" [ref=e45]:
+                          - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name pasanga playground la kalikkiranga (Press Ctrl+g to toggle between English and Tamil)" [ref=e46]:
+                            - table [ref=e47]:
+                              - rowgroup [ref=e48]:
+                                - row "English To Tamil Conversion" [ref=e49]:
+                                  - cell "English To Tamil Conversion" [ref=e50]:
+                                    - heading "English To Tamil Conversion" [level=1] [ref=e51]
+                                - row "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name pasanga playground la kalikkiranga (Press Ctrl+g to toggle between English and Tamil)" [ref=e52]:
+                                  - cell "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name pasanga playground la kalikkiranga (Press Ctrl+g to toggle between English and Tamil)" [ref=e53]:
+                                    - table [ref=e54]:
+                                      - rowgroup [ref=e55]:
+                                        - row "Type in English and press space(add space) to get converted to tamil" [ref=e56]:
+                                          - cell "Type in English and press space(add space) to get converted to tamil" [ref=e57]
+                                        - row "Save Export" [ref=e58]:
+                                          - cell "Save Export" [ref=e59]:
+                                            - button "Save" [ref=e60]
+                                            - button "Export" [ref=e61]
+                                        - row "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e62]:
+                                          - cell "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e63]
+                                        - row "pasanga playground la kalikkiranga" [ref=e64]:
+                                          - cell "pasanga playground la kalikkiranga" [ref=e65]:
+                                            - textbox [active] [ref=e66]: pasanga playground la kalikkiranga
+                                        - row "(Press Ctrl+g to toggle between English and Tamil)" [ref=e67]:
+                                          - cell "(Press Ctrl+g to toggle between English and Tamil)" [ref=e68]
+                          - cell "Advertisement" [ref=e69]:
+                            - insertion [ref=e70]:
+                              - iframe [ref=e72]:
+                                - generic [active] [ref=f2e1]:
+                                  - generic [ref=f2e9]:
+                                    - link [ref=f2e10] [cursor=pointer]:
+                                      - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CE6tL4sl9aYjtM_WN29gPqruTqQqdo6T8ggH25azo2BHAjbcBEAEg14SiDGCRAaABj9Ge7CnIAQGoAwHIA8sEqgTYAU_QnjY2GkrD2FjafduRfSx-wpQ7pcuqosm0uRr9wYpqXwBX7MN0SDmthy8hP2HnjuaAydABEIfNt2LJTGHuxHtYDBQSe_P5Th49RzX8TeYPfkEhXpyAyYzQe3PKhAM0bk94xJlxvIsHvTgyuUvcdIPQvt-9vJTx8diDR9FWwgXtwdfu9GeeUMl_1rH3IkCI2bvyjjnJEEzzdzepW9UYHzpf7s165tAGncyKwDdXae1B8qOm_bAtOef_f8d0nCmkWzRokHzqw2Vust2kLs8pCI6AmMNNKGLb6sAErcfCzbgEiAWQ5Ly2TIAHj4nvywSoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOljEoqWOurWSA7EJMyIs_rDGBOKACgGYCwHICwGiDAOQAQGqDQJMS8gNAeoNEwjn56aOurWSAxX1xhYFHardJKXwDQKIDgXYEwyIFBjQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgozMTI3NDkxNTEyuhcCOAGqGBcJAAAAABA7-EASCjMxMjc0OTE1MTIYAbIYCRICpmYYASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIiOamjrq1kgMV9cYWBR2q3SSlEAEYASAAEgKKA_D_BwE&num=1&cid=CAQSsgEA56J1eQqlH4Eiq_vvSjOTITr0zxnRGvnXO8HLgjetBxvIpnBHtxhP8dOVGvgqV_5liEpPquzuTrpwcrqzBgFVYeBsdkziLOW7WRMkVl2GTdPuXaBpmn3JIQlx7hjwsFp4w2hYPFJJgqnlH0qK049li-mdUxvFaEm0sk3cHNzxlEA6tm1yHV9bhNmzPrXmCYJYMi8umE19gua8ZPweKgYjrj90oKGhyHh59bmma_kXDXSOGAE&sig=AOD64_0yhr-XQtQ1QvjZvMkQB8HMIwZL9Q&client=ca-pub-0827640844035835&rf=1&nb=19&adurl=https://sider.ai/apps/lp-chatgpt%3Fsource%3Dgg%26p1%3Dai%26p2%3Ddisplay%26gad_source%3D5%26gad_campaignid%3D20515336720%26gclid%3DEAIaIQobChMIiOamjrq1kgMV9cYWBR2q3SSlEAEYASAAEgKKA_D_BwE
+                                      - img [ref=f2e11]
+                                    - generic "Sider" [ref=f2e12]:
+                                      - link "Free ChatGPT Extension" [ref=f2e14] [cursor=pointer]:
+                                        - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CE6tL4sl9aYjtM_WN29gPqruTqQqdo6T8ggH25azo2BHAjbcBEAEg14SiDGCRAaABj9Ge7CnIAQGoAwHIA8sEqgTYAU_QnjY2GkrD2FjafduRfSx-wpQ7pcuqosm0uRr9wYpqXwBX7MN0SDmthy8hP2HnjuaAydABEIfNt2LJTGHuxHtYDBQSe_P5Th49RzX8TeYPfkEhXpyAyYzQe3PKhAM0bk94xJlxvIsHvTgyuUvcdIPQvt-9vJTx8diDR9FWwgXtwdfu9GeeUMl_1rH3IkCI2bvyjjnJEEzzdzepW9UYHzpf7s165tAGncyKwDdXae1B8qOm_bAtOef_f8d0nCmkWzRokHzqw2Vust2kLs8pCI6AmMNNKGLb6sAErcfCzbgEiAWQ5Ly2TIAHj4nvywSoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOljEoqWOurWSA7EJMyIs_rDGBOKACgGYCwHICwGiDAOQAQGqDQJMS8gNAeoNEwjn56aOurWSAxX1xhYFHardJKXwDQKIDgXYEwyIFBjQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgozMTI3NDkxNTEyuhcCOAGqGBcJAAAAABA7-EASCjMxMjc0OTE1MTIYAbIYCRICpmYYASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIiOamjrq1kgMV9cYWBR2q3SSlEAEYASAAEgKKA_D_BwE&num=1&cid=CAQSsgEA56J1eQqlH4Eiq_vvSjOTITr0zxnRGvnXO8HLgjetBxvIpnBHtxhP8dOVGvgqV_5liEpPquzuTrpwcrqzBgFVYeBsdkziLOW7WRMkVl2GTdPuXaBpmn3JIQlx7hjwsFp4w2hYPFJJgqnlH0qK049li-mdUxvFaEm0sk3cHNzxlEA6tm1yHV9bhNmzPrXmCYJYMi8umE19gua8ZPweKgYjrj90oKGhyHh59bmma_kXDXSOGAE&sig=AOD64_0yhr-XQtQ1QvjZvMkQB8HMIwZL9Q&client=ca-pub-0827640844035835&rf=1&nb=0&adurl=https://sider.ai/apps/lp-chatgpt%3Fsource%3Dgg%26p1%3Dai%26p2%3Ddisplay%26gad_source%3D5%26gad_campaignid%3D20515336720%26gclid%3DEAIaIQobChMIiOamjrq1kgMV9cYWBR2q3SSlEAEYASAAEgKKA_D_BwE
+                                    - link "ChatGPT Browser Plugin as your AI assistant on any page" [ref=f2e17] [cursor=pointer]:
+                                      - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CE6tL4sl9aYjtM_WN29gPqruTqQqdo6T8ggH25azo2BHAjbcBEAEg14SiDGCRAaABj9Ge7CnIAQGoAwHIA8sEqgTYAU_QnjY2GkrD2FjafduRfSx-wpQ7pcuqosm0uRr9wYpqXwBX7MN0SDmthy8hP2HnjuaAydABEIfNt2LJTGHuxHtYDBQSe_P5Th49RzX8TeYPfkEhXpyAyYzQe3PKhAM0bk94xJlxvIsHvTgyuUvcdIPQvt-9vJTx8diDR9FWwgXtwdfu9GeeUMl_1rH3IkCI2bvyjjnJEEzzdzepW9UYHzpf7s165tAGncyKwDdXae1B8qOm_bAtOef_f8d0nCmkWzRokHzqw2Vust2kLs8pCI6AmMNNKGLb6sAErcfCzbgEiAWQ5Ly2TIAHj4nvywSoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOljEoqWOurWSA7EJMyIs_rDGBOKACgGYCwHICwGiDAOQAQGqDQJMS8gNAeoNEwjn56aOurWSAxX1xhYFHardJKXwDQKIDgXYEwyIFBjQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgozMTI3NDkxNTEyuhcCOAGqGBcJAAAAABA7-EASCjMxMjc0OTE1MTIYAbIYCRICpmYYASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIiOamjrq1kgMV9cYWBR2q3SSlEAEYASAAEgKKA_D_BwE&num=1&cid=CAQSsgEA56J1eQqlH4Eiq_vvSjOTITr0zxnRGvnXO8HLgjetBxvIpnBHtxhP8dOVGvgqV_5liEpPquzuTrpwcrqzBgFVYeBsdkziLOW7WRMkVl2GTdPuXaBpmn3JIQlx7hjwsFp4w2hYPFJJgqnlH0qK049li-mdUxvFaEm0sk3cHNzxlEA6tm1yHV9bhNmzPrXmCYJYMi8umE19gua8ZPweKgYjrj90oKGhyHh59bmma_kXDXSOGAE&sig=AOD64_0yhr-XQtQ1QvjZvMkQB8HMIwZL9Q&client=ca-pub-0827640844035835&rf=1&nb=7&adurl=https://sider.ai/apps/lp-chatgpt%3Fsource%3Dgg%26p1%3Dai%26p2%3Ddisplay%26gad_source%3D5%26gad_campaignid%3D20515336720%26gclid%3DEAIaIQobChMIiOamjrq1kgMV9cYWBR2q3SSlEAEYASAAEgKKA_D_BwE
+                                      - text: ChatGPT Browser Plugin as your AI
+                                      - text: assistant on any page
+                                    - link "Open" [ref=f2e18] [cursor=pointer]:
+                                      - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CE6tL4sl9aYjtM_WN29gPqruTqQqdo6T8ggH25azo2BHAjbcBEAEg14SiDGCRAaABj9Ge7CnIAQGoAwHIA8sEqgTYAU_QnjY2GkrD2FjafduRfSx-wpQ7pcuqosm0uRr9wYpqXwBX7MN0SDmthy8hP2HnjuaAydABEIfNt2LJTGHuxHtYDBQSe_P5Th49RzX8TeYPfkEhXpyAyYzQe3PKhAM0bk94xJlxvIsHvTgyuUvcdIPQvt-9vJTx8diDR9FWwgXtwdfu9GeeUMl_1rH3IkCI2bvyjjnJEEzzdzepW9UYHzpf7s165tAGncyKwDdXae1B8qOm_bAtOef_f8d0nCmkWzRokHzqw2Vust2kLs8pCI6AmMNNKGLb6sAErcfCzbgEiAWQ5Ly2TIAHj4nvywSoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOljEoqWOurWSA7EJMyIs_rDGBOKACgGYCwHICwGiDAOQAQGqDQJMS8gNAeoNEwjn56aOurWSAxX1xhYFHardJKXwDQKIDgXYEwyIFBjQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgozMTI3NDkxNTEyuhcCOAGqGBcJAAAAABA7-EASCjMxMjc0OTE1MTIYAbIYCRICpmYYASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIiOamjrq1kgMV9cYWBR2q3SSlEAEYASAAEgKKA_D_BwE&num=1&cid=CAQSsgEA56J1eQqlH4Eiq_vvSjOTITr0zxnRGvnXO8HLgjetBxvIpnBHtxhP8dOVGvgqV_5liEpPquzuTrpwcrqzBgFVYeBsdkziLOW7WRMkVl2GTdPuXaBpmn3JIQlx7hjwsFp4w2hYPFJJgqnlH0qK049li-mdUxvFaEm0sk3cHNzxlEA6tm1yHV9bhNmzPrXmCYJYMi8umE19gua8ZPweKgYjrj90oKGhyHh59bmma_kXDXSOGAE&sig=AOD64_0yhr-XQtQ1QvjZvMkQB8HMIwZL9Q&client=ca-pub-0827640844035835&rf=1&nb=8&adurl=https://sider.ai/apps/lp-chatgpt%3Fsource%3Dgg%26p1%3Dai%26p2%3Ddisplay%26gad_source%3D5%26gad_campaignid%3D20515336720%26gclid%3DEAIaIQobChMIiOamjrq1kgMV9cYWBR2q3SSlEAEYASAAEgKKA_D_BwE
+                                      - generic [ref=f2e19]: Open
+                                  - img [ref=f2e23] [cursor=pointer]
+                                  - button [ref=f2e25] [cursor=pointer]:
+                                    - img [ref=f2e26]
+                                  - iframe
+                        - row [ref=e73]:
+                          - cell [ref=e74]:
+                            - insertion [ref=e75]
+        - row [ref=e78]:
+          - cell [ref=e79]
+  - insertion [ref=e80]:
+    - iframe [ref=e83]:
+      - generic [active] [ref=f9e1]:
+        - generic [ref=f9e6]:
+          - generic [ref=f9e8]:
+            - link "sapphire substrate" [ref=f9e11] [cursor=pointer]:
+              - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CIAeC4sl9aZrtNZyo2vYPn_Sc6Q7djIDshAHS2MuoyxXSkPSE2TIQASDXhKIMYJEBoAGg9t39KsgBAakCmuDiywNLgz6oAwHIA8sEqgTXAU_QyMHM9qdWKLnwQHJihZw0hTRa4uGRTI16t8B8hfjJP6iD6iP06IxuqvnV4KKyNmA_BEdJLhqcJnHXYeug_TG0ADnndliXzZRa7WrqMTRVQ2YUdcq54fFF9un28-C1YsuG0DOnVXCeEjW9hvOUirTQCGmU6Y6d_vaCEoT0HcWxqZWVVSgLm9_FcITInBLlhPQasDG_CiBo8_1MyCb70K92D11YuD8xQgjbP0MN2qu62fN9Uu_Fdp6rIlHI6WqXch6kW4wA6scaXf4D6l1TNeiu1xA1yYhpwASiy87J0AWIBYXilb5XgAegrq7dBagHp8yxAqgH4tixAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIILwiAYRABGJ8DMgiKgoCAgICACDoNgECAwICAgICogAKoA0i9_cE6WKWhp466tZIDsQnuOKV6VivrmoAKAZgLAcgLAaIMA5ABAaoNAkxLyA0B6g0TCOzoqI66tZIDFRyU1ggdHzon7fANAogOCdgTDNAVAZgWAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRICk1UYASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMImuaojrq1kgMVHJTWCB0fOiftEAEYASAAEgL7uvD_BwE&num=1&cid=CAQSsgEA56J1eS4URdw-lsBVWWPkGiy33GzVGDPVhFHyoRi6PYwbPDqcL2hKL_UgXHreonz7kCXsb3-vxHBsQ5cXSBwQhqs1bgTkK8Ph4qnmPR_L7jKTo6m89L6A7VUU4rfNBMJFx5DjzlMsiL9TZjJymEKMxQlQ3c8aBsOpN03mLWIwnKyikJzaMrwaXN09TXK1ao_o0S0VIzEMjIUxJBNSa0sgBCmwNTWW-cK2nAy7tKVVv21FGAE&sig=AOD64_3fdUQSotSg5XTD1tzFK_tkuKsBmg&client=ca-pub-0827640844035835&rf=1&nb=19&adurl=https://www.sapphire-substrate.com/sale-45839016-polished-transparent-sapphire-tube-ky-method-customized-size-high-hardness-high-wear-resistance.html%3Fkh%26adcid%3D23479593527%26adgid%3D%26kwd%3D%26mctp%3D%26net%3Dx%26device%3Dc%26rank%3D%26gad_source%3D5%26gad_campaignid%3D23484264709%26gclid%3DEAIaIQobChMImuaojrq1kgMVHJTWCB0fOiftEAEYASAAEgL7uvD_BwE
+              - img "sapphire substrate" [ref=f9e12]
+            - generic [ref=f9e13]:
+              - generic "sapphire substrate" [ref=f9e16]:
+                - link "Custom Sapphire Tubes & Rods" [ref=f9e17] [cursor=pointer]:
+                  - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CIAeC4sl9aZrtNZyo2vYPn_Sc6Q7djIDshAHS2MuoyxXSkPSE2TIQASDXhKIMYJEBoAGg9t39KsgBAakCmuDiywNLgz6oAwHIA8sEqgTXAU_QyMHM9qdWKLnwQHJihZw0hTRa4uGRTI16t8B8hfjJP6iD6iP06IxuqvnV4KKyNmA_BEdJLhqcJnHXYeug_TG0ADnndliXzZRa7WrqMTRVQ2YUdcq54fFF9un28-C1YsuG0DOnVXCeEjW9hvOUirTQCGmU6Y6d_vaCEoT0HcWxqZWVVSgLm9_FcITInBLlhPQasDG_CiBo8_1MyCb70K92D11YuD8xQgjbP0MN2qu62fN9Uu_Fdp6rIlHI6WqXch6kW4wA6scaXf4D6l1TNeiu1xA1yYhpwASiy87J0AWIBYXilb5XgAegrq7dBagHp8yxAqgH4tixAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIILwiAYRABGJ8DMgiKgoCAgICACDoNgECAwICAgICogAKoA0i9_cE6WKWhp466tZIDsQnuOKV6VivrmoAKAZgLAcgLAaIMA5ABAaoNAkxLyA0B6g0TCOzoqI66tZIDFRyU1ggdHzon7fANAogOCdgTDNAVAZgWAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRICk1UYASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMImuaojrq1kgMVHJTWCB0fOiftEAEYASAAEgL7uvD_BwE&num=1&cid=CAQSsgEA56J1eS4URdw-lsBVWWPkGiy33GzVGDPVhFHyoRi6PYwbPDqcL2hKL_UgXHreonz7kCXsb3-vxHBsQ5cXSBwQhqs1bgTkK8Ph4qnmPR_L7jKTo6m89L6A7VUU4rfNBMJFx5DjzlMsiL9TZjJymEKMxQlQ3c8aBsOpN03mLWIwnKyikJzaMrwaXN09TXK1ao_o0S0VIzEMjIUxJBNSa0sgBCmwNTWW-cK2nAy7tKVVv21FGAE&sig=AOD64_3fdUQSotSg5XTD1tzFK_tkuKsBmg&client=ca-pub-0827640844035835&rf=1&nb=0&adurl=https://www.sapphire-substrate.com/sale-45839016-polished-transparent-sapphire-tube-ky-method-customized-size-high-hardness-high-wear-resistance.html%3Fkh%26adcid%3D23479593527%26adgid%3D%26kwd%3D%26mctp%3D%26net%3Dx%26device%3Dc%26rank%3D%26gad_source%3D5%26gad_campaignid%3D23484264709%26gclid%3DEAIaIQobChMImuaojrq1kgMVHJTWCB0fOiftEAEYASAAEgL7uvD_BwE
+              - link "We Have A Large Stock Of Standard Products As Well As The Capacity For Customer Orders sapphire substrate" [ref=f9e20] [cursor=pointer]:
+                - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CIAeC4sl9aZrtNZyo2vYPn_Sc6Q7djIDshAHS2MuoyxXSkPSE2TIQASDXhKIMYJEBoAGg9t39KsgBAakCmuDiywNLgz6oAwHIA8sEqgTXAU_QyMHM9qdWKLnwQHJihZw0hTRa4uGRTI16t8B8hfjJP6iD6iP06IxuqvnV4KKyNmA_BEdJLhqcJnHXYeug_TG0ADnndliXzZRa7WrqMTRVQ2YUdcq54fFF9un28-C1YsuG0DOnVXCeEjW9hvOUirTQCGmU6Y6d_vaCEoT0HcWxqZWVVSgLm9_FcITInBLlhPQasDG_CiBo8_1MyCb70K92D11YuD8xQgjbP0MN2qu62fN9Uu_Fdp6rIlHI6WqXch6kW4wA6scaXf4D6l1TNeiu1xA1yYhpwASiy87J0AWIBYXilb5XgAegrq7dBagHp8yxAqgH4tixAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIILwiAYRABGJ8DMgiKgoCAgICACDoNgECAwICAgICogAKoA0i9_cE6WKWhp466tZIDsQnuOKV6VivrmoAKAZgLAcgLAaIMA5ABAaoNAkxLyA0B6g0TCOzoqI66tZIDFRyU1ggdHzon7fANAogOCdgTDNAVAZgWAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRICk1UYASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMImuaojrq1kgMVHJTWCB0fOiftEAEYASAAEgL7uvD_BwE&num=1&cid=CAQSsgEA56J1eS4URdw-lsBVWWPkGiy33GzVGDPVhFHyoRi6PYwbPDqcL2hKL_UgXHreonz7kCXsb3-vxHBsQ5cXSBwQhqs1bgTkK8Ph4qnmPR_L7jKTo6m89L6A7VUU4rfNBMJFx5DjzlMsiL9TZjJymEKMxQlQ3c8aBsOpN03mLWIwnKyikJzaMrwaXN09TXK1ao_o0S0VIzEMjIUxJBNSa0sgBCmwNTWW-cK2nAy7tKVVv21FGAE&sig=AOD64_3fdUQSotSg5XTD1tzFK_tkuKsBmg&client=ca-pub-0827640844035835&rf=1&nb=7&adurl=https://www.sapphire-substrate.com/sale-45839016-polished-transparent-sapphire-tube-ky-method-customized-size-high-hardness-high-wear-resistance.html%3Fkh%26adcid%3D23479593527%26adgid%3D%26kwd%3D%26mctp%3D%26net%3Dx%26device%3Dc%26rank%3D%26gad_source%3D5%26gad_campaignid%3D23484264709%26gclid%3DEAIaIQobChMImuaojrq1kgMVHJTWCB0fOiftEAEYASAAEgL7uvD_BwE
+                - text: We Have A Large Stock Of Standard Products As Well As The Capacity For Customer
+                - text: Orders sapphire substrate
+          - link "Open" [ref=f9e23] [cursor=pointer]:
+            - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CIAeC4sl9aZrtNZyo2vYPn_Sc6Q7djIDshAHS2MuoyxXSkPSE2TIQASDXhKIMYJEBoAGg9t39KsgBAakCmuDiywNLgz6oAwHIA8sEqgTXAU_QyMHM9qdWKLnwQHJihZw0hTRa4uGRTI16t8B8hfjJP6iD6iP06IxuqvnV4KKyNmA_BEdJLhqcJnHXYeug_TG0ADnndliXzZRa7WrqMTRVQ2YUdcq54fFF9un28-C1YsuG0DOnVXCeEjW9hvOUirTQCGmU6Y6d_vaCEoT0HcWxqZWVVSgLm9_FcITInBLlhPQasDG_CiBo8_1MyCb70K92D11YuD8xQgjbP0MN2qu62fN9Uu_Fdp6rIlHI6WqXch6kW4wA6scaXf4D6l1TNeiu1xA1yYhpwASiy87J0AWIBYXilb5XgAegrq7dBagHp8yxAqgH4tixAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgH-MKxAqgH-8KxAtgHAdIILwiAYRABGJ8DMgiKgoCAgICACDoNgECAwICAgICogAKoA0i9_cE6WKWhp466tZIDsQnuOKV6VivrmoAKAZgLAcgLAaIMA5ABAaoNAkxLyA0B6g0TCOzoqI66tZIDFRyU1ggdHzon7fANAogOCdgTDNAVAZgWAcoWAgoA-BYBgBcBshcCGAG6FwI4AbIYCRICk1UYASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMImuaojrq1kgMVHJTWCB0fOiftEAEYASAAEgL7uvD_BwE&num=1&cid=CAQSsgEA56J1eS4URdw-lsBVWWPkGiy33GzVGDPVhFHyoRi6PYwbPDqcL2hKL_UgXHreonz7kCXsb3-vxHBsQ5cXSBwQhqs1bgTkK8Ph4qnmPR_L7jKTo6m89L6A7VUU4rfNBMJFx5DjzlMsiL9TZjJymEKMxQlQ3c8aBsOpN03mLWIwnKyikJzaMrwaXN09TXK1ao_o0S0VIzEMjIUxJBNSa0sgBCmwNTWW-cK2nAy7tKVVv21FGAE&sig=AOD64_3fdUQSotSg5XTD1tzFK_tkuKsBmg&client=ca-pub-0827640844035835&rf=1&nb=8&adurl=https://www.sapphire-substrate.com/sale-45839016-polished-transparent-sapphire-tube-ky-method-customized-size-high-hardness-high-wear-resistance.html%3Fkh%26adcid%3D23479593527%26adgid%3D%26kwd%3D%26mctp%3D%26net%3Dx%26device%3Dc%26rank%3D%26gad_source%3D5%26gad_campaignid%3D23484264709%26gclid%3DEAIaIQobChMImuaojrq1kgMVHJTWCB0fOiftEAEYASAAEgL7uvD_BwE
+            - generic [ref=f9e27]:
+              - generic [ref=f9e28]: Open
+              - img [ref=f9e29]
+        - img [ref=f9e34] [cursor=pointer]
+        - button [ref=f9e36] [cursor=pointer]:
+          - img [ref=f9e37]
+        - iframe
+```

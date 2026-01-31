@@ -1,0 +1,127 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - table [ref=e3]:
+    - rowgroup [ref=e4]:
+      - row "hello Can't Read Tamil Properly ? Click Here To Install Tamil Font . Login / Register" [ref=e5]:
+        - cell "hello" [ref=e6]
+        - cell "Can't Read Tamil Properly ? Click Here To Install Tamil Font ." [ref=e7]:
+          - text: Can't Read Tamil Properly ?
+          - link "Click Here" [ref=e8] [cursor=pointer]:
+            - /url: Fonts.aspx
+          - text: To Install Tamil Font .
+        - cell "Login / Register" [ref=e9]:
+          - table [ref=e10]:
+            - rowgroup [ref=e11]:
+              - row "Login / Register" [ref=e12]:
+                - cell [ref=e13]
+                - cell "Login / Register" [ref=e14]:
+                  - link "Login / Register" [ref=e15] [cursor=pointer]:
+                    - /url: Register.aspx
+  - table [ref=e16]:
+    - rowgroup [ref=e17]:
+      - row "Online Tamil Tools" [ref=e18]:
+        - cell "Online Tamil Tools" [ref=e19]:
+          - heading "Online Tamil Tools" [level=1] [ref=e20]
+      - row "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e21]:
+        - cell "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e22]:
+          - generic:
+            - list:
+              - listitem [ref=e23]:
+                - link "Conversion" [ref=e24] [cursor=pointer]:
+                  - /url: ./
+              - listitem [ref=e25]:
+                - link "Dictionary" [ref=e26] [cursor=pointer]:
+                  - /url: Dictionary.aspx
+              - listitem [ref=e27]:
+                - link "Tamil Search" [ref=e28] [cursor=pointer]:
+                  - /url: Search.aspx
+              - listitem [ref=e29]:
+                - link "Export To Image" [ref=e30] [cursor=pointer]:
+                  - /url: Export.aspx
+              - listitem [ref=e31]:
+                - link "Fonts" [ref=e32] [cursor=pointer]:
+                  - /url: Fonts.aspx
+              - listitem [ref=e33]:
+                - link "Help" [ref=e34] [cursor=pointer]:
+                  - /url: Comments.aspx
+              - listitem [ref=e35]:
+                - link "FAQ" [ref=e36] [cursor=pointer]:
+                  - /url: How-To-Write.aspx
+      - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name malargal pozhiyum kadalil (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tamil language tutor services Professional translation service Tamil image export Tamil news website subscriptions Tamil community event tickets" [ref=e37]:
+        - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name malargal pozhiyum kadalil (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tamil language tutor services Professional translation service Tamil image export Tamil news website subscriptions Tamil community event tickets" [ref=e38]:
+          - table [ref=e39]:
+            - rowgroup [ref=e40]:
+              - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name malargal pozhiyum kadalil (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tamil language tutor services Professional translation service Tamil image export Tamil news website subscriptions Tamil community event tickets" [ref=e41]:
+                - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name malargal pozhiyum kadalil (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tamil language tutor services Professional translation service Tamil image export Tamil news website subscriptions Tamil community event tickets" [ref=e42]:
+                  - table [ref=e43]:
+                    - rowgroup [ref=e44]:
+                      - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name malargal pozhiyum kadalil (Press Ctrl+g to toggle between English and Tamil) Advertisement" [ref=e45]:
+                        - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name malargal pozhiyum kadalil (Press Ctrl+g to toggle between English and Tamil)" [ref=e46]:
+                          - table [ref=e47]:
+                            - rowgroup [ref=e48]:
+                              - row "English To Tamil Conversion" [ref=e49]:
+                                - cell "English To Tamil Conversion" [ref=e50]:
+                                  - heading "English To Tamil Conversion" [level=1] [ref=e51]
+                              - row "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name malargal pozhiyum kadalil (Press Ctrl+g to toggle between English and Tamil)" [ref=e52]:
+                                - cell "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name malargal pozhiyum kadalil (Press Ctrl+g to toggle between English and Tamil)" [ref=e53]:
+                                  - table [ref=e54]:
+                                    - rowgroup [ref=e55]:
+                                      - row "Type in English and press space(add space) to get converted to tamil" [ref=e56]:
+                                        - cell "Type in English and press space(add space) to get converted to tamil" [ref=e57]
+                                      - row "Save Export" [ref=e58]:
+                                        - cell "Save Export" [ref=e59]:
+                                          - button "Save" [ref=e60]
+                                          - button "Export" [ref=e61]
+                                      - row "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e62]:
+                                        - cell "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e63]
+                                      - row "malargal pozhiyum kadalil" [ref=e64]:
+                                        - cell "malargal pozhiyum kadalil" [ref=e65]:
+                                          - textbox [active] [ref=e66]: malargal pozhiyum kadalil
+                                      - row "(Press Ctrl+g to toggle between English and Tamil)" [ref=e67]:
+                                        - cell "(Press Ctrl+g to toggle between English and Tamil)" [ref=e68]
+                        - cell "Advertisement" [ref=e69]:
+                          - insertion [ref=e70]:
+                            - iframe [ref=e72]:
+                              - generic [active] [ref=f2e1]:
+                                - generic [ref=f2e9]:
+                                  - link [ref=f2e10] [cursor=pointer]:
+                                    - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CZFHN98l9ae3sNcqLid4PrZrD4Qudo6T8ggH25azo2BHAjbcBEAEg14SiDGCRAaABj9Ge7CnIAQGoAwHIA8sEqgTeAU_QYLTDNz_jIhfufSJBVZIWv79rGs6mTHVxg0E8p61Ao7WAyn8dsf_x2aG-EusORLTijrPHnUjODuS3JQV5dz1Ue8NgS44y1Quq1cR5_fQse6AI0LVQR3etN9WlUVvFdQzgJ0OwoXkzH-8CGmDJAJrSe2vNnQJAaGucPpOwvlrcbGhW_2wjwZu6QGjjDIdcJ1WAayR-bIdFIiVrTAJKIu__HJoH8DddY_R6DSlEBFz0XvqQ9RbH2HDbagAeRSmtZacrHsa-Wobmw7tTtpGxF3kCqZ1qw60sXZDiQTXY38AErcfCzbgEiAWQ5Ly2TIAHj4nvywSoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlivgqmYurWSA7EJMyIs_rDGBOKACgGYCwHICwGiDAOQAQGqDQJMS8gNAeoNEwivxqqYurWSAxXKRcIFHS3NMLzwDQKIDgXYEwyIFBjQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgozMTI3NDkxNTEyuhcCOAGqGBcJAAAAAFC4-UASCjMxMjc0OTE1MTIYAbIYCRICpmYYASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIrcSqmLq1kgMVykXCBR0tzTC8EAEYASAAEgL9mvD_BwE&num=1&cid=CAQSsgEA56J1eaiRvst5llYTkd7xF0s3lOzSXFMi4Law2u-BY0eQWSUgYl3n4ch45ok8NQxj8I7RcZ3Oq-JpRt9QLBIpUbPJOuNKX1LZDbUetm3YHA7fz6b6TRNBvFpaLeybTegQb8bttMZ7miNb3_-hwHdxTNt0ya84lb6eCYXj8ZUo-yytCksxgqVTS9523INAXk-vW8uTbbjoNskF5g78d9-tAujF6W_2zsVCB6PUuDqpEe6JGAE&sig=AOD64_2pkP_Oj5PfMUxtUCI9hFdMdDcSSw&client=ca-pub-0827640844035835&rf=1&nb=19&adurl=https://sider.ai/apps/lp-chatgpt%3Fsource%3Dgg%26p1%3Dai%26p2%3Ddisplay%26gad_source%3D5%26gad_campaignid%3D20515336720%26gclid%3DEAIaIQobChMIrcSqmLq1kgMVykXCBR0tzTC8EAEYASAAEgL9mvD_BwE
+                                    - img [ref=f2e11]
+                                  - generic "Sider" [ref=f2e12]:
+                                    - link "Free ChatGPT Extension" [ref=f2e13] [cursor=pointer]:
+                                      - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CZFHN98l9ae3sNcqLid4PrZrD4Qudo6T8ggH25azo2BHAjbcBEAEg14SiDGCRAaABj9Ge7CnIAQGoAwHIA8sEqgTeAU_QYLTDNz_jIhfufSJBVZIWv79rGs6mTHVxg0E8p61Ao7WAyn8dsf_x2aG-EusORLTijrPHnUjODuS3JQV5dz1Ue8NgS44y1Quq1cR5_fQse6AI0LVQR3etN9WlUVvFdQzgJ0OwoXkzH-8CGmDJAJrSe2vNnQJAaGucPpOwvlrcbGhW_2wjwZu6QGjjDIdcJ1WAayR-bIdFIiVrTAJKIu__HJoH8DddY_R6DSlEBFz0XvqQ9RbH2HDbagAeRSmtZacrHsa-Wobmw7tTtpGxF3kCqZ1qw60sXZDiQTXY38AErcfCzbgEiAWQ5Ly2TIAHj4nvywSoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlivgqmYurWSA7EJMyIs_rDGBOKACgGYCwHICwGiDAOQAQGqDQJMS8gNAeoNEwivxqqYurWSAxXKRcIFHS3NMLzwDQKIDgXYEwyIFBjQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgozMTI3NDkxNTEyuhcCOAGqGBcJAAAAAFC4-UASCjMxMjc0OTE1MTIYAbIYCRICpmYYASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIrcSqmLq1kgMVykXCBR0tzTC8EAEYASAAEgL9mvD_BwE&num=1&cid=CAQSsgEA56J1eaiRvst5llYTkd7xF0s3lOzSXFMi4Law2u-BY0eQWSUgYl3n4ch45ok8NQxj8I7RcZ3Oq-JpRt9QLBIpUbPJOuNKX1LZDbUetm3YHA7fz6b6TRNBvFpaLeybTegQb8bttMZ7miNb3_-hwHdxTNt0ya84lb6eCYXj8ZUo-yytCksxgqVTS9523INAXk-vW8uTbbjoNskF5g78d9-tAujF6W_2zsVCB6PUuDqpEe6JGAE&sig=AOD64_2pkP_Oj5PfMUxtUCI9hFdMdDcSSw&client=ca-pub-0827640844035835&rf=1&nb=0&adurl=https://sider.ai/apps/lp-chatgpt%3Fsource%3Dgg%26p1%3Dai%26p2%3Ddisplay%26gad_source%3D5%26gad_campaignid%3D20515336720%26gclid%3DEAIaIQobChMIrcSqmLq1kgMVykXCBR0tzTC8EAEYASAAEgL9mvD_BwE
+                                  - link "ChatGPT Browser Plugin as your AI assistant on any page" [ref=f2e15] [cursor=pointer]:
+                                    - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CZFHN98l9ae3sNcqLid4PrZrD4Qudo6T8ggH25azo2BHAjbcBEAEg14SiDGCRAaABj9Ge7CnIAQGoAwHIA8sEqgTeAU_QYLTDNz_jIhfufSJBVZIWv79rGs6mTHVxg0E8p61Ao7WAyn8dsf_x2aG-EusORLTijrPHnUjODuS3JQV5dz1Ue8NgS44y1Quq1cR5_fQse6AI0LVQR3etN9WlUVvFdQzgJ0OwoXkzH-8CGmDJAJrSe2vNnQJAaGucPpOwvlrcbGhW_2wjwZu6QGjjDIdcJ1WAayR-bIdFIiVrTAJKIu__HJoH8DddY_R6DSlEBFz0XvqQ9RbH2HDbagAeRSmtZacrHsa-Wobmw7tTtpGxF3kCqZ1qw60sXZDiQTXY38AErcfCzbgEiAWQ5Ly2TIAHj4nvywSoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlivgqmYurWSA7EJMyIs_rDGBOKACgGYCwHICwGiDAOQAQGqDQJMS8gNAeoNEwivxqqYurWSAxXKRcIFHS3NMLzwDQKIDgXYEwyIFBjQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgozMTI3NDkxNTEyuhcCOAGqGBcJAAAAAFC4-UASCjMxMjc0OTE1MTIYAbIYCRICpmYYASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIrcSqmLq1kgMVykXCBR0tzTC8EAEYASAAEgL9mvD_BwE&num=1&cid=CAQSsgEA56J1eaiRvst5llYTkd7xF0s3lOzSXFMi4Law2u-BY0eQWSUgYl3n4ch45ok8NQxj8I7RcZ3Oq-JpRt9QLBIpUbPJOuNKX1LZDbUetm3YHA7fz6b6TRNBvFpaLeybTegQb8bttMZ7miNb3_-hwHdxTNt0ya84lb6eCYXj8ZUo-yytCksxgqVTS9523INAXk-vW8uTbbjoNskF5g78d9-tAujF6W_2zsVCB6PUuDqpEe6JGAE&sig=AOD64_2pkP_Oj5PfMUxtUCI9hFdMdDcSSw&client=ca-pub-0827640844035835&rf=1&nb=7&adurl=https://sider.ai/apps/lp-chatgpt%3Fsource%3Dgg%26p1%3Dai%26p2%3Ddisplay%26gad_source%3D5%26gad_campaignid%3D20515336720%26gclid%3DEAIaIQobChMIrcSqmLq1kgMVykXCBR0tzTC8EAEYASAAEgL9mvD_BwE
+                                    - text: ChatGPT Browser Plugin as your AI
+                                    - text: assistant on any page
+                                  - link "Open" [ref=f2e16] [cursor=pointer]:
+                                    - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CZFHN98l9ae3sNcqLid4PrZrD4Qudo6T8ggH25azo2BHAjbcBEAEg14SiDGCRAaABj9Ge7CnIAQGoAwHIA8sEqgTeAU_QYLTDNz_jIhfufSJBVZIWv79rGs6mTHVxg0E8p61Ao7WAyn8dsf_x2aG-EusORLTijrPHnUjODuS3JQV5dz1Ue8NgS44y1Quq1cR5_fQse6AI0LVQR3etN9WlUVvFdQzgJ0OwoXkzH-8CGmDJAJrSe2vNnQJAaGucPpOwvlrcbGhW_2wjwZu6QGjjDIdcJ1WAayR-bIdFIiVrTAJKIu__HJoH8DddY_R6DSlEBFz0XvqQ9RbH2HDbagAeRSmtZacrHsa-Wobmw7tTtpGxF3kCqZ1qw60sXZDiQTXY38AErcfCzbgEiAWQ5Ly2TIAHj4nvywSoB6fMsQKoB-LYsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOlivgqmYurWSA7EJMyIs_rDGBOKACgGYCwHICwGiDAOQAQGqDQJMS8gNAeoNEwivxqqYurWSAxXKRcIFHS3NMLzwDQKIDgXYEwyIFBjQFQGYFgHKFgIKAPgWAYAXAbIXDhgBKgozMTI3NDkxNTEyuhcCOAGqGBcJAAAAAFC4-UASCjMxMjc0OTE1MTIYAbIYCRICpmYYASIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMIrcSqmLq1kgMVykXCBR0tzTC8EAEYASAAEgL9mvD_BwE&num=1&cid=CAQSsgEA56J1eaiRvst5llYTkd7xF0s3lOzSXFMi4Law2u-BY0eQWSUgYl3n4ch45ok8NQxj8I7RcZ3Oq-JpRt9QLBIpUbPJOuNKX1LZDbUetm3YHA7fz6b6TRNBvFpaLeybTegQb8bttMZ7miNb3_-hwHdxTNt0ya84lb6eCYXj8ZUo-yytCksxgqVTS9523INAXk-vW8uTbbjoNskF5g78d9-tAujF6W_2zsVCB6PUuDqpEe6JGAE&sig=AOD64_2pkP_Oj5PfMUxtUCI9hFdMdDcSSw&client=ca-pub-0827640844035835&rf=1&nb=8&adurl=https://sider.ai/apps/lp-chatgpt%3Fsource%3Dgg%26p1%3Dai%26p2%3Ddisplay%26gad_source%3D5%26gad_campaignid%3D20515336720%26gclid%3DEAIaIQobChMIrcSqmLq1kgMVykXCBR0tzTC8EAEYASAAEgL9mvD_BwE
+                                    - generic [ref=f2e17]: Open
+                                - img [ref=f2e21] [cursor=pointer]
+                                - button [ref=f2e23] [cursor=pointer]:
+                                  - img [ref=f2e24]
+                      - row "These are topics related to the article that might interest you Tamil language tutor services Professional translation service Tamil image export Tamil news website subscriptions Tamil community event tickets" [ref=e73]:
+                        - cell "These are topics related to the article that might interest you Tamil language tutor services Professional translation service Tamil image export Tamil news website subscriptions Tamil community event tickets" [ref=e74]:
+                          - insertion [ref=e75]:
+                            - generic [ref=e77]:
+                              - generic "These are topics related to the article that might interest you" [ref=e78]: Discover more
+                              - link "Tamil language tutor services" [ref=e79] [cursor=pointer]:
+                                - img [ref=e81]
+                                - text: Tamil language tutor services
+                              - link "Professional translation service" [ref=e83] [cursor=pointer]:
+                                - img [ref=e85]
+                                - text: Professional translation service
+                              - link "Tamil image export" [ref=e87] [cursor=pointer]:
+                                - img [ref=e89]
+                                - text: Tamil image export
+                              - link "Tamil news website subscriptions" [ref=e91] [cursor=pointer]:
+                                - img [ref=e93]
+                                - text: Tamil news website subscriptions
+                              - link "Tamil community event tickets" [ref=e95] [cursor=pointer]:
+                                - img [ref=e97]
+                                - text: Tamil community event tickets
+      - row [ref=e99]:
+        - cell [ref=e100]
+```

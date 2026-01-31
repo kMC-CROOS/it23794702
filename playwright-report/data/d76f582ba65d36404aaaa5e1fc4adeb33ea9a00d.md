@@ -1,0 +1,111 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - table [ref=e3]:
+    - rowgroup [ref=e4]:
+      - row "hello Can't Read Tamil Properly ? Click Here To Install Tamil Font . Login / Register" [ref=e5]:
+        - cell "hello" [ref=e6]
+        - cell "Can't Read Tamil Properly ? Click Here To Install Tamil Font ." [ref=e7]:
+          - text: Can't Read Tamil Properly ?
+          - link "Click Here" [ref=e8] [cursor=pointer]:
+            - /url: Fonts.aspx
+          - text: To Install Tamil Font .
+        - cell "Login / Register" [ref=e9]:
+          - table [ref=e10]:
+            - rowgroup [ref=e11]:
+              - row "Login / Register" [ref=e12]:
+                - cell [ref=e13]
+                - cell "Login / Register" [ref=e14]:
+                  - link "Login / Register" [ref=e15] [cursor=pointer]:
+                    - /url: Register.aspx
+  - table [ref=e16]:
+    - rowgroup [ref=e17]:
+      - row "Online Tamil Tools" [ref=e18]:
+        - cell "Online Tamil Tools" [ref=e19]:
+          - heading "Online Tamil Tools" [level=1] [ref=e20]
+      - row "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e21]:
+        - cell "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e22]:
+          - generic:
+            - list:
+              - listitem [ref=e23]:
+                - link "Conversion" [ref=e24] [cursor=pointer]:
+                  - /url: ./
+              - listitem [ref=e25]:
+                - link "Dictionary" [ref=e26] [cursor=pointer]:
+                  - /url: Dictionary.aspx
+              - listitem [ref=e27]:
+                - link "Tamil Search" [ref=e28] [cursor=pointer]:
+                  - /url: Search.aspx
+              - listitem [ref=e29]:
+                - link "Export To Image" [ref=e30] [cursor=pointer]:
+                  - /url: Export.aspx
+              - listitem [ref=e31]:
+                - link "Fonts" [ref=e32] [cursor=pointer]:
+                  - /url: Fonts.aspx
+              - listitem [ref=e33]:
+                - link "Help" [ref=e34] [cursor=pointer]:
+                  - /url: Comments.aspx
+              - listitem [ref=e35]:
+                - link "FAQ" [ref=e36] [cursor=pointer]:
+                  - /url: How-To-Write.aspx
+      - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name naliku nan pondraen kodaikanal (Press Ctrl+g to toggle between English and Tamil) These are topics related to the article that might interest you Tamil movie streaming subscriptions Tamil news website subscriptions Tamil digital art prints Advertisement" [ref=e37]:
+        - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name naliku nan pondraen kodaikanal (Press Ctrl+g to toggle between English and Tamil) These are topics related to the article that might interest you Tamil movie streaming subscriptions Tamil news website subscriptions Tamil digital art prints Advertisement" [ref=e38]:
+          - table [ref=e39]:
+            - rowgroup [ref=e40]:
+              - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name naliku nan pondraen kodaikanal (Press Ctrl+g to toggle between English and Tamil) These are topics related to the article that might interest you Tamil movie streaming subscriptions Tamil news website subscriptions Tamil digital art prints Advertisement" [ref=e41]:
+                - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name naliku nan pondraen kodaikanal (Press Ctrl+g to toggle between English and Tamil) These are topics related to the article that might interest you Tamil movie streaming subscriptions Tamil news website subscriptions Tamil digital art prints Advertisement" [ref=e42]:
+                  - table [ref=e43]:
+                    - rowgroup [ref=e44]:
+                      - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name naliku nan pondraen kodaikanal (Press Ctrl+g to toggle between English and Tamil) These are topics related to the article that might interest you Tamil movie streaming subscriptions Tamil news website subscriptions Tamil digital art prints" [ref=e45]:
+                        - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name naliku nan pondraen kodaikanal (Press Ctrl+g to toggle between English and Tamil)" [ref=e46]:
+                          - table [ref=e47]:
+                            - rowgroup [ref=e48]:
+                              - row "English To Tamil Conversion" [ref=e49]:
+                                - cell "English To Tamil Conversion" [ref=e50]:
+                                  - heading "English To Tamil Conversion" [level=1] [ref=e51]
+                              - row "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name naliku nan pondraen kodaikanal (Press Ctrl+g to toggle between English and Tamil)" [ref=e52]:
+                                - cell "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name naliku nan pondraen kodaikanal (Press Ctrl+g to toggle between English and Tamil)" [ref=e53]:
+                                  - table [ref=e54]:
+                                    - rowgroup [ref=e55]:
+                                      - row "Type in English and press space(add space) to get converted to tamil" [ref=e56]:
+                                        - cell "Type in English and press space(add space) to get converted to tamil" [ref=e57]
+                                      - row "Save Export" [ref=e58]:
+                                        - cell "Save Export" [ref=e59]:
+                                          - button "Save" [ref=e60]
+                                          - button "Export" [ref=e61]
+                                      - row "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e62]:
+                                        - cell "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e63]
+                                      - row "naliku nan pondraen kodaikanal" [ref=e64]:
+                                        - cell "naliku nan pondraen kodaikanal" [ref=e65]:
+                                          - textbox [active] [ref=e66]: naliku nan pondraen kodaikanal
+                                      - row "(Press Ctrl+g to toggle between English and Tamil)" [ref=e67]:
+                                        - cell "(Press Ctrl+g to toggle between English and Tamil)" [ref=e68]
+                        - cell "These are topics related to the article that might interest you Tamil movie streaming subscriptions Tamil news website subscriptions Tamil digital art prints" [ref=e69]:
+                          - insertion [ref=e70]:
+                            - generic [ref=e73]:
+                              - heading "These are topics related to the article that might interest you" [level=2] [ref=e75]: Discover more
+                              - link "Tamil movie streaming subscriptions" [ref=e76] [cursor=pointer]:
+                                - generic "Tamil movie streaming subscriptions" [ref=e77]
+                                - img [ref=e79]
+                              - link "Tamil news website subscriptions" [ref=e81] [cursor=pointer]:
+                                - generic "Tamil news website subscriptions" [ref=e82]
+                                - img [ref=e84]
+                              - link "Tamil digital art prints" [ref=e86] [cursor=pointer]:
+                                - generic "Tamil digital art prints" [ref=e87]
+                                - img [ref=e89]
+                      - row "Advertisement" [ref=e91]:
+                        - cell "Advertisement" [ref=e92]:
+                          - insertion [ref=e93]:
+                            - iframe [ref=e95]:
+                              - generic [ref=f3e2]:
+                                - iframe [ref=f3e5]:
+                                  
+                                - generic [ref=f3e6]:
+                                  - generic:
+                                    - img [ref=f3e10] [cursor=pointer]
+                                    - button [ref=f3e12] [cursor=pointer]:
+                                      - img [ref=f3e13]
+      - row [ref=e96]:
+        - cell [ref=e97]
+```

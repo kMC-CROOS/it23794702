@@ -1,0 +1,110 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - table [ref=e3]:
+    - rowgroup [ref=e4]:
+      - row "hello Can't Read Tamil Properly ? Click Here To Install Tamil Font . Login / Register" [ref=e5]:
+        - cell "hello" [ref=e6]
+        - cell "Can't Read Tamil Properly ? Click Here To Install Tamil Font ." [ref=e7]:
+          - text: Can't Read Tamil Properly ?
+          - link "Click Here" [ref=e8] [cursor=pointer]:
+            - /url: Fonts.aspx
+          - text: To Install Tamil Font .
+        - cell "Login / Register" [ref=e9]:
+          - table [ref=e10]:
+            - rowgroup [ref=e11]:
+              - row "Login / Register" [ref=e12]:
+                - cell [ref=e13]
+                - cell "Login / Register" [ref=e14]:
+                  - link "Login / Register" [ref=e15] [cursor=pointer]:
+                    - /url: Register.aspx
+  - table [ref=e16]:
+    - rowgroup [ref=e17]:
+      - row "Online Tamil Tools" [ref=e18]:
+        - cell "Online Tamil Tools" [ref=e19]:
+          - heading "Online Tamil Tools" [level=1] [ref=e20]
+      - row "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e21]:
+        - cell "Conversion Dictionary Tamil Search Export To Image Fonts Help FAQ" [ref=e22]:
+          - generic:
+            - list:
+              - listitem [ref=e23]:
+                - link "Conversion" [ref=e24] [cursor=pointer]:
+                  - /url: ./
+              - listitem [ref=e25]:
+                - link "Dictionary" [ref=e26] [cursor=pointer]:
+                  - /url: Dictionary.aspx
+              - listitem [ref=e27]:
+                - link "Tamil Search" [ref=e28] [cursor=pointer]:
+                  - /url: Search.aspx
+              - listitem [ref=e29]:
+                - link "Export To Image" [ref=e30] [cursor=pointer]:
+                  - /url: Export.aspx
+              - listitem [ref=e31]:
+                - link "Fonts" [ref=e32] [cursor=pointer]:
+                  - /url: Fonts.aspx
+              - listitem [ref=e33]:
+                - link "Help" [ref=e34] [cursor=pointer]:
+                  - /url: Comments.aspx
+              - listitem [ref=e35]:
+                - link "FAQ" [ref=e36] [cursor=pointer]:
+                  - /url: How-To-Write.aspx
+      - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name yo vanakkam da (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tanglish conversion tool Professional translation service Language translation services Tamil language courses Translation API access" [ref=e37]:
+        - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name yo vanakkam da (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tanglish conversion tool Professional translation service Language translation services Tamil language courses Translation API access" [ref=e38]:
+          - table [ref=e39]:
+            - rowgroup [ref=e40]:
+              - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name yo vanakkam da (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tanglish conversion tool Professional translation service Language translation services Tamil language courses Translation API access" [ref=e41]:
+                - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name yo vanakkam da (Press Ctrl+g to toggle between English and Tamil) Advertisement These are topics related to the article that might interest you Tanglish conversion tool Professional translation service Language translation services Tamil language courses Translation API access" [ref=e42]:
+                  - table [ref=e43]:
+                    - rowgroup [ref=e44]:
+                      - row "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name yo vanakkam da (Press Ctrl+g to toggle between English and Tamil) Advertisement" [ref=e45]:
+                        - cell "English To Tamil Conversion Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name yo vanakkam da (Press Ctrl+g to toggle between English and Tamil)" [ref=e46]:
+                          - table [ref=e47]:
+                            - rowgroup [ref=e48]:
+                              - row "English To Tamil Conversion" [ref=e49]:
+                                - cell "English To Tamil Conversion" [ref=e50]:
+                                  - heading "English To Tamil Conversion" [level=1] [ref=e51]
+                              - row "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name yo vanakkam da (Press Ctrl+g to toggle between English and Tamil)" [ref=e52]:
+                                - cell "Type in English and press space(add space) to get converted to tamil Save Export Do not copy paste type yourself word by word. eg:tamil blog or your name yo vanakkam da (Press Ctrl+g to toggle between English and Tamil)" [ref=e53]:
+                                  - table [ref=e54]:
+                                    - rowgroup [ref=e55]:
+                                      - row "Type in English and press space(add space) to get converted to tamil" [ref=e56]:
+                                        - cell "Type in English and press space(add space) to get converted to tamil" [ref=e57]
+                                      - row "Save Export" [ref=e58]:
+                                        - cell "Save Export" [ref=e59]:
+                                          - button "Save" [ref=e60]
+                                          - button "Export" [ref=e61]
+                                      - row "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e62]:
+                                        - cell "Do not copy paste type yourself word by word. eg:tamil blog or your name" [ref=e63]
+                                      - row "yo vanakkam da" [ref=e64]:
+                                        - cell "yo vanakkam da" [ref=e65]:
+                                          - textbox [active] [ref=e66]: yo vanakkam da
+                                      - row "(Press Ctrl+g to toggle between English and Tamil)" [ref=e67]:
+                                        - cell "(Press Ctrl+g to toggle between English and Tamil)" [ref=e68]
+                        - cell "Advertisement" [ref=e69]:
+                          - insertion:
+                            - iframe [ref=e71]:
+                              
+                      - row "These are topics related to the article that might interest you Tanglish conversion tool Professional translation service Language translation services Tamil language courses Translation API access" [ref=e72]:
+                        - cell "These are topics related to the article that might interest you Tanglish conversion tool Professional translation service Language translation services Tamil language courses Translation API access" [ref=e73]:
+                          - insertion [ref=e74]:
+                            - generic [ref=e76]:
+                              - generic "These are topics related to the article that might interest you" [ref=e77]: Discover more
+                              - link "Tanglish conversion tool" [ref=e78] [cursor=pointer]:
+                                - img [ref=e80]
+                                - text: Tanglish conversion tool
+                              - link "Professional translation service" [ref=e82] [cursor=pointer]:
+                                - img [ref=e84]
+                                - text: Professional translation service
+                              - link "Language translation services" [ref=e86] [cursor=pointer]:
+                                - img [ref=e88]
+                                - text: Language translation services
+                              - link "Tamil language courses" [ref=e90] [cursor=pointer]:
+                                - img [ref=e92]
+                                - text: Tamil language courses
+                              - link "Translation API access" [ref=e94] [cursor=pointer]:
+                                - img [ref=e96]
+                                - text: Translation API access
+      - row [ref=e98]:
+        - cell [ref=e99]
+```
